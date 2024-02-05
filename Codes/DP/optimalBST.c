@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <limits.h>
+
+// references:
+// 1) refer MCM 
+// 2) OBST(video) : https://www.youtube.com/watch?v=vLS-zRCHo-Y
+
 // Time taken to search is O(logn)
 int keys[] = {0, 10, 20, 30, 40};
 int freqs[] = {0, 4, 2, 6, 3};
