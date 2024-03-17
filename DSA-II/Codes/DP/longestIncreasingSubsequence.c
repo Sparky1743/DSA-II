@@ -5,7 +5,9 @@
 // 1) LIS(length) : https://www.youtube.com/watch?v=CE2b_-XfVDk
 // 2) LIS(print_lis) : https://www.youtube.com/watch?v=E6us4nmXTHs
 
-int arr[] = {0, 4, 12, 2, 10, 6, 9, 13, 3, 11, 7, 15};
+// int arr[] = {0, 4, 12, 2, 10, 6, 9, 13, 3, 11, 7, 15};
+// int arr[] = {4, 10, 4, 3, 8, 9};
+int arr[] = {0};
 // int arr[] = {3, 4, -1, 0, 6, 2, 3};
 #define n (sizeof(arr) / sizeof(arr[0]))
 

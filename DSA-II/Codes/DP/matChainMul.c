@@ -34,7 +34,7 @@ int main(){
         for (int j = 0; j < n; j ++){
             if (i == j){
                 m[i][j] = 0;
-                pos[4][4] = 0;
+                pos[i][j] = 0;
             }
         }
     }

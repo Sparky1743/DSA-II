@@ -38,7 +38,7 @@ int main(){
                 // printf("%d, %d", i, j);
                 // printf("%d", i);
                 if (A[i] == B[j]){
-                    // printf("%c ", A[i]);
+                    // printf("%c ", A[i]); 
                     // printf("%c ", B[j]);
                     // printf("%d", j);
                     LCS[i + 1][j + 1] = 1 + LCS[i][j];
