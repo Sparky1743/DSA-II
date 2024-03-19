@@ -2,6 +2,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
+// reference : https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
 // Number of vertices in the graph
 #define V 5
 
